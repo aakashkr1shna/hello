@@ -1,6 +1,3 @@
-
-git dependency (pom.xml)
-
 public class qwert
 {
 public static void main()
